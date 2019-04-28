@@ -1,3 +1,4 @@
+GEO JAMALI
 Masukan Folder² Thrift Ini Ke Folder Bot Yang Kalian Pilih Agar Bisa Digunakan
 
 THRIFT BY : BANG ACIL PRANKBOTS
