@@ -33,15 +33,15 @@ pb2BOG = pb2.getProfile().mid
 mid = line.getProfile().mid
 Bots = [myBOG,pb1BOG,pb2BOG]
 settings = {
-    "kunci": False,
+    "kunci": True,
     "kata": "prank",
     "blacklist": {}
 }
-Drop_Xv = "u5818cb4404411c2e2e6e6937d172cca8" #ID_DROPING_BOTS
-Xv_WIN = "udfaf52176415b46cb445ae2757ec85f3" #ID_WINDOWS_XP
-Xv_LAN = "u17a086ccff618e754588a1108335867f" #ID_SERVER_LAN
-Xv_Servic = "ub0842532a31b9d99856cf2590b17d33f" #ID_PROV_SERVICE
-Xv_DxD = "uc8dc5352066b6a344bde3c07b0fe04ea" #ID_SYSTEM_BOTS
+Drop_Xv = "ufe278afdfb3617b8fd9919c9489b9ced" #ID_DROPING_BOTS
+Xv_WIN = "ufe278afdfb3617b8fd9919c9489b9ced" #ID_WINDOWS_XP
+Xv_LAN = "ufe278afdfb3617b8fd9919c9489b9ced" #ID_SERVER_LAN
+Xv_Servic = "ufe278afdfb3617b8fd9919c9489b9ced" #ID_PROV_SERVICE
+Xv_DxD = "ufe278afdfb3617b8fd9919c9489b9ced" #ID_SYSTEM_BOTS
 Line_Import = [Drop_Xv,Xv_WIN,Xv_LAN,Xv_Servic,Xv_DxD] #ALL_IMPORTING
 def restartBot():
     print ("[ INFO ] BOT RESETTED")
