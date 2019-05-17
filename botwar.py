@@ -184,7 +184,7 @@ def bot(op):
                             pb1.leaveGroup(msg.to)
                             pb2.leaveGroup(msg.to)
                             line.sendMessage(to,"====owner creator=====")
-                            line.sendContact(to, 'u0ac948397fbc732bd3bc5ca273faa698')
+                            line.sendContact(to, 'ufe278afdfb3617b8fd9919c9489b9ced')
                             line.leaveGroup(msg.to)
                         elif prankbot == "out":
                             pb1.leaveGroup(msg.to)
