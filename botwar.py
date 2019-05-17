@@ -10,9 +10,9 @@ import time, random, sys, json, codecs, threading, glob, re, string, os, request
 _session = requests.session()
 botStart = time.time()
 settings = {
-    "line": "TOKEN SB",
-    "pb1": "TOKEN KICKER 1",
-    "pb2": "TOKEN KICKER 2",
+    "line": "EFMiB7cwe9X4Cw6bSZFd.+IEk+FS2f7J9MrNjsjUC7q.nfuD0YamJ4zUTssyojdZjD95EqNR5D/RJF3ITKDxN0E=",
+    "pb1": "EFrLaQGvSd37VCRROoba.RqXlEuMyCo0SX+f7rAWbUG.nJQ0AbgkhqWYZcErDfF4kzI83x2WsIH9bjGxGDs2f5I=",
+    "pb2": "EFu5J0da0XEsusEa9zN4.AI/sqK1rPfDta4o3nrhLba.zy/GU1jZlPV4b5hACE05x3R+sJ0ekyiAL0pnxpW0iLs=",
     "kunci": False,
     "kata": "prank",
     "blacklist": {}
